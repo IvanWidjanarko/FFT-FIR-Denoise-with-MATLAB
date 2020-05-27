@@ -8,7 +8,7 @@ Ivan Widjanarko - 1806148706 - Teknik Komputer - Teknik Elektro - Fakultas Tekni
 
 ## Deskripsi Proyek
 
-<p align="justify">       Proyek ini dibuat dalam bentuk GUI pada MATLAB. User dapat merekam suara secara real time pada program ini. Setelah suara direkam, maka selanjutnya rekaman tersebut dapat dianalisis, baik dengan FFT (Fast Fourier Transform), FIR (Finite Impulse Response), ataupun Denoise (menghilangkan noises pada rekaman). Hasil dari analisis tersebut akan berupa grafik yang menggambarkan sinyal tersebut setelah di-filter. Selain itu, user juga dapat mendengarkan kembali, baik rekaman asli, hasil FFT, hasil FIR, maupun hasil Denoise. Terdapat juga pilihan Exit untuk keluar dari program tersebut. Proyek ini dibuat sedemikian rupa agar memberikan tampilan yang menarik dan mudah digunakan oleh user. </p>
+<p align="justify">       Proyek ini dibuat dalam bentuk GUI pada MATLAB. User dapat merekam suara secara <b><i>real time</i></b> pada program ini. Setelah suara direkam, maka selanjutnya rekaman tersebut dapat dianalisis, baik dengan <b><i>FFT</i></b> (Fast Fourier Transform), <b><i>FIR</i></b> (Finite Impulse Response), ataupun <b><i>Denoise</i></b> (menghilangkan noises pada rekaman). Hasil dari analisis tersebut akan berupa <b><i>grafik</i></b> yang menggambarkan sinyal tersebut setelah di-filter. Selain itu, user juga dapat <b><i>mendengarkan kembali</i></b>, baik rekaman asli, hasil FFT, hasil FIR, maupun hasil Denoise. Terdapat juga pilihan <b><i>Exit</i></b> untuk keluar dari program tersebut. Proyek ini dibuat sedemikian rupa agar memberikan tampilan yang menarik dan mudah digunakan oleh user. </p>
 
 ## Screenshot Tampilan Program
 
